@@ -2,6 +2,10 @@
 
 A React + TypeScript application that helps you track your social interactions by connecting to your Google Calendar.
 
+## Upcoming Features
+
+- In my Social Plans sheet, sort / find by person name to do an event using cmd + f. 
+
 ## Features
 
 - Connects to your Google Calendar "Social" calendar
